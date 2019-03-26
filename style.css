@@ -16,6 +16,38 @@ button:focus{
 	outline:0;
 }
 
+.create{
+background-image:url("images/create.svg"); 
+width:100px;
+height:100px;
+background-repeat:no-repeat;
+background-size:contain;
+}
+
+.design{
+background-image:url("images/design.svg");
+width:100px;
+height:100px;
+background-repeat:no-repeat;
+background-size:contain; 
+}
+
+.target{
+background-image:url("images/target.svg");
+width:100px;
+height:100px;
+background-repeat:no-repeat;
+background-size:contain; 
+}
+
+.measure{
+background-image:url("images/measure.svg");
+width:100px;
+height:100px;
+background-repeat:no-repeat;
+background-size:contain; 
+}
+
 /* ######################## MOBILE ########################## */
 
 @media (max-width: 767px) {
@@ -241,6 +273,9 @@ button:focus{
 .quote{
 	width:50px;
 	height:50px;
+	background-image:url("images/quote.svg");
+	background-repeat:no-repeat;
+	background-size:contain;
 	transform:translate(150px);
 }
 
@@ -694,8 +729,10 @@ text-decoration:none;
 .top_image{
 	
 	width:100%;
-	height:auto;
-	display:inline-block;
+	height:35vw;
+	background-image:url("images/top_image.svg");
+	background-repeat:no-repeat;
+	background-size:cover;
 	float:right;
 	
 }
@@ -746,6 +783,11 @@ text-decoration:none;
 }
 
 .quote{
+	width:100px;
+	height:100px;
+	background-image:url("images/quote.svg");
+	background-repeat:no-repeat;
+	background-size:contain;
 	transform:translate(0,-40px);
 }
 
@@ -1113,7 +1155,7 @@ margin-bottom:50px;
 .section_one--paragraph_one{
 	
 	color:black;
-	font-size:4vw;
+	font-size:5vw;
 	font-weight:300;
 }
 
@@ -1124,7 +1166,7 @@ margin-bottom:50px;
 .section_one--paragraph_two{
 
 	color:#7F8C8D;
-	font-size:1.2vw;
+	font-size:1.5vw;
 	font-weight:300;
 	margin-top:1vw;
 }	
@@ -1154,8 +1196,10 @@ margin-bottom:50px;
 }
 .top_image{
 	width:100%;
-	height:auto;
-	display:inline-block;
+	height:35vw;
+	background-image:url("images/top_image.svg");
+	background-repeat:no-repeat;
+	background-size:cover;
 	float:right;
 }
 
@@ -1205,6 +1249,11 @@ margin-bottom:50px;
 }
 
 .quote{
+	width:120px;
+	height:120px;
+	background-image:url("images/quote.svg");
+	background-repeat:no-repeat;
+	background-size:contain;
 	transform:translate(0,-40px);
 }
 
@@ -1252,6 +1301,7 @@ margin-bottom:50px;
 	justify-content:center;
 	align-items:center;
 }
+
 
 
 
