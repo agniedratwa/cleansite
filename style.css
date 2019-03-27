@@ -788,6 +788,7 @@ text-decoration:none;
 	background-image:url('images/quote.svg');
 	background-repeat:no-repeat;
 	background-size:contain;
+	background-position:center;
 	transform:translate(0,-40px);
 }
 
