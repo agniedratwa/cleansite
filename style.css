@@ -17,7 +17,7 @@ button:focus{
 }
 
 .create{
-background-image:url('/images/create.svg'); 
+background-image:url('images/create.svg'); 
 width:100px;
 height:100px;
 background-repeat:no-repeat;
@@ -25,7 +25,7 @@ background-size:contain;
 }
 
 .design{
-background-image:url('/images/design.svg');
+background-image:url('images/design.svg');
 width:100px;
 height:100px;
 background-repeat:no-repeat;
@@ -33,7 +33,7 @@ background-size:contain;
 }
 
 .target{
-background-image:url('/images/target.svg');
+background-image:url('images/target.svg');
 width:100px;
 height:100px;
 background-repeat:no-repeat;
@@ -41,7 +41,7 @@ background-size:contain;
 }
 
 .measure{
-background-image:url('/images/measure.svg');
+background-image:url('images/menu.svg');
 width:100px;
 height:100px;
 background-repeat:no-repeat;
@@ -74,7 +74,7 @@ background-size:contain;
 .hamburger{
 	width:30px;
 	height:30px;
-	background-image:url('images/menu.svg');
+	background-image:url('images/measure.svg');
 	background-repeat:no-repeat;
 	background-size:contain;
 	background-position:center;
