@@ -17,7 +17,7 @@ button:focus{
 }
 
 .create{
-background-image:url('images/create.svg'); 
+background-image:url('/images/create.svg'); 
 width:100px;
 height:100px;
 background-repeat:no-repeat;
@@ -25,7 +25,7 @@ background-size:contain;
 }
 
 .design{
-background-image:url('images/design.svg');
+background-image:url('/images/design.svg');
 width:100px;
 height:100px;
 background-repeat:no-repeat;
@@ -33,7 +33,7 @@ background-size:contain;
 }
 
 .target{
-background-image:url('images/target.svg');
+background-image:url('/images/target.svg');
 width:100px;
 height:100px;
 background-repeat:no-repeat;
@@ -41,7 +41,7 @@ background-size:contain;
 }
 
 .measure{
-background-image:url('images/measure.svg');
+background-image:url('/images/measure.svg');
 width:100px;
 height:100px;
 background-repeat:no-repeat;
@@ -97,10 +97,10 @@ background-size:contain;
 .menu ul{
 	font-size:13px;
 	width:100%;
-	height:auto;
+	height:100%;
 	text-transform: uppercase;
 	display:none;	
-	transform:translate(20px ,40px);
+	transform:translate(20px,40px);
 	background-color:rgba(240,240,240,0.8);
 	padding:10px;
 	border-radius:25px 0 25px 25px;
@@ -126,6 +126,7 @@ background-size:contain;
 
 .menu li{
 	display:block;
+	width:100%;
 	color: #29292A;
 	font-weight:700;
 	text-transform:uppercase;
