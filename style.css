@@ -274,7 +274,7 @@ background-size:contain;
 .quote{
 	width:50px;
 	height:50px;
-	background-image:url('images/quote.svg');
+	background-image:url('images/quotes.svg');
 	background-repeat:no-repeat;
 	background-size:contain;
 	transform:translate(150px);
@@ -786,7 +786,7 @@ text-decoration:none;
 .quote{
 	width:100px;
 	height:100px;
-	background-image:url('images/quote.svg');
+	background-image:url('images/quotes.svg');
 	background-repeat:no-repeat;
 	background-size:contain;
 	background-position:center;
@@ -1253,7 +1253,7 @@ margin-bottom:50px;
 .quote{
 	width:120px;
 	height:120px;
-	background-image:url('images/quote.svg');
+	background-image:url('images/quotes.svg');
 	background-repeat:no-repeat;
 	background-size:contain;
 	transform:translate(0,-40px);
