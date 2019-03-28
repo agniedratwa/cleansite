@@ -1201,7 +1201,7 @@ margin-bottom:50px;
 	height:35vw;
 	background-image:url('images/top_image.png');
 	background-repeat:no-repeat;
-	background-size:cover;
+	background-size:contain;
 	float:right;
 }
 
