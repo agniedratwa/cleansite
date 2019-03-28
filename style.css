@@ -732,8 +732,8 @@ text-decoration:none;
 	width:100%;
 	height:35vw;
 	background-image:url('images/bank.svg');
-	background-repeat:repeat;
-	background-size:cover;
+	background-repeat:no-repeat;
+	background-size:contain;
 	float:right;
 	
 }
